@@ -1,7 +1,7 @@
 # Variable for Image
 variable "image" {
   description = "Name for Image"
-  default = "ghost:lastest"
+  default = "ghost:latest"
 }
 
 # Variable for Container Name
